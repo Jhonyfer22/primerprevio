@@ -7,6 +7,14 @@
 
 }
 
+#logo2{
+    
+    position:relative;
+    left: 780px;
+    top: 120px;
+
+}
+
 h1{
 
     text-align: center;
@@ -51,7 +59,7 @@ aside {
     float: left;
     position: relative;
     left: -848px;
-    top: 50px;
+    top: 220px;
 
 }
 
@@ -62,5 +70,5 @@ aside {
     float: left;
     position: relative;
     left: 950px;
-    top: -25px;
+    top: 111px;
 }
