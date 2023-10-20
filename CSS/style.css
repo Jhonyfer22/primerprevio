@@ -1,3 +1,17 @@
+
+#logo{
+    
+    position:relative;
+    left: 780px;
+    top: 60px;
+
+}
+
+h1{
+
+    text-align: center;
+}
+
 header {
     width: 1200px;
     height: 100px;
