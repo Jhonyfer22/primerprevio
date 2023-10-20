@@ -15,7 +15,7 @@ h1{
 header {
     width: 1200px;
     height: 100px;
-    background-color: rgb(19, 117, 84);
+    background-color: rgb(19, 34, 117);
     color: #e4e3e3;
     text-align: center;
     font-size: 36px;
@@ -28,14 +28,16 @@ header {
 
 main {
     width: 1000px;
-    background-color: lightgray;
+    background-color: rgb(28, 95, 182);
+    color: #e4e3e3;
     float: left;
     position: relative;
     left: 352px;
 }
 aside {
     width: 200px;
-    background-color: gray;
+    background-color: rgb(16, 54, 160);
+    color: #e4e3e3;
     float: left;
     position: relative;
     left: 352px;
@@ -44,7 +46,8 @@ aside {
 .main-footer{
 
     width: 600px;
-    background-color: gray;
+    background-color: rgb(20, 23, 163);
+    color: #e4e3e3;
     float: left;
     position: relative;
     left: -848px;
@@ -54,9 +57,10 @@ aside {
 
 .aside-footer{
     width: 600px;
-    background-color: gray;
+    background-color: rgb(11, 24, 212);
+    color: #e4e3e3;
     float: left;
     position: relative;
-    left: -248px;
-    top: 32px;
+    left: 950px;
+    top: -25px;
 }
